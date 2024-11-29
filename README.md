@@ -1,6 +1,6 @@
 # SocialBuzz Data Analysis Project
 
-![Bar Chart of Top Categories](Accenture Project/Visualization/Top Categories and Sentiment Analysis)
+![Top Categories and Sentiment Analysis](https://github.com/louayfj/Accenture-Data-Analysis-Project/blob/main/Accenture%20Project/Visualization/Top%20Categories%20and%20Sentiment%20Analysis.png?raw=true)
 
 
 ## Overview
